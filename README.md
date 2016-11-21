@@ -117,6 +117,7 @@ An example for how to build &amp; use of staticlib
 ```
 
 ![Simulator Screen Shot 2016年11月21日 13.15.26.png](http://upload-images.jianshu.io/upload_images/1155603-c71ada2de300a85d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 8.以上测试工程 [传送门](https://github.com/Fengur/FGStaticLibTest) Demo中有三个工程：
 -  **StaticLibTest** 为生产静态库工程
 - **StaticVerify** 为单独真机静态库效果
